@@ -1,0 +1,58 @@
+/* Author: Janaky Murthy */
+
+
+* {
+  margin:0px;
+}
+.container {
+  height:1000px;
+  width:100%;
+  padding-top:100px;
+  padding-bottom:40px;
+}
+
+#quote-box {
+  width:40%;
+  height:auto;
+  margin-left:30%;
+  margin-right:30%;
+  padding-top: 10px;
+}
+#quote-message {
+  width:80%;
+  height:auto;
+  margin-left:10%;
+  margin-right:10px;
+  font-size:30px;
+  font-family: 'Pacifico';
+}
+#quote-author{
+  width:50%;
+  margin-left:45%;
+  margin-right:5%;
+  margin-bottom:30px;
+  font-size:20px;
+  font-family:'Pacifico';
+  text-align:right;
+}
+
+#twitter-share {
+  margin-left:10%;
+  margin-right:10%;
+}
+#next-quote-button {
+  float:right;
+  margin-right:10%;
+  height:69px;
+  margin-bottom:30px;
+  
+}
+
+#next-button {
+  height:100%;
+  width:100%;
+  background-color:blue;
+  color:white;
+  border-radius:10%;
+}
+
