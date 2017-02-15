@@ -1,0 +1,46 @@
+/* Author: Janaky Murthy 
+ * Local Weather App 
+ */
+ 
+* {
+  margin:0px;
+}
+
+#content {
+  height:1020px;
+  width:100%;
+  background-color: grey;
+}
+
+#weather-box {
+  width:50%;
+  margin-left:25%;
+  margin-riight: 25%;
+  margin-top:100px;
+  padding-top:20px;
+  height:280px;
+  background-color:#345;
+}
+
+#location {
+  text-align:center;
+  font-size:25px;
+  font-family:sans-serif;
+  color:white;
+}
+
+#temp {
+  margin-top:40px;
+  text-align:center;
+  font-size:35px;
+  color:white;
+}
+#unit:hover {
+  color: yellow;
+}
+#weather-cond {
+  margin-top:2px;
+  text-align:center;
+  color:white;
+  font-size:20px;
+}
